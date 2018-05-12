@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/zatrek_blue"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="wrap_content">
+
+
+    <LinearLayout
+
+        android:id="@+id/sv_left_header"
+        android:layout_width="@dimen/_180sdp"
+        android:layout_marginLeft="30dp"
+        android:layout_above="@+id/sv_left_menu"
+        android:orientation="vertical"
+        android:layout_height="@dimen/_72sdp">
+
+        <LinearLayout
+            android:layout_marginTop="@dimen/_7sdp"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="@dimen/_58sdp">
+
+
+
+            <ImageView
+                android:layout_width="@dimen/_50sdp"
+                android:id="@+id/Author_Avatar"
+                android:layout_height="@dimen/_50sdp"
+                android:layout_gravity="center"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                app:srcCompat="@mipmap/ic_launcher_round" />
+
+
+
+            <LinearLayout
+                android:layout_marginLeft="@dimen/_21sdp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/Author_DisplayName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:gravity="start"
+                    android:textColor="@android:color/white"
+                    />
+                <TextView
+
+                    android:layout_gravity="start"
+                    android:gravity="start"
+                    android:id="@+id/Author_UserName"
+                    android:layout_marginTop="3dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@android:color/white"
+                    />
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

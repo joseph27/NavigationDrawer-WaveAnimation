@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <integer-array name="menu_array">
+        <item>@drawable/ic_home_linear</item>
+        <item>@drawable/ic_notification_linear</item>
+        <item>@drawable/ic_like</item>
+        <item>@drawable/ic_history_linear</item>
+        <item>@drawable/ic_users_linear</item>
+        <item>@drawable/ic_settings_linear</item>
+        <item>@drawable/ic_invite3</item>
+        <item>@drawable/ic_share</item>
+        <item>@drawable/ic_settings_linear</item>
+    </integer-array>
+
+    <string-array name="MenuTitles">
+        <item>HOME</item>
+        <item>NOTIFICATIONS</item>
+        <item>COLLECTION</item>
+        <item>HISTORY</item>
+        <item>USERS</item>
+        <item>SPACE</item>
+        <item>INVITE FRIENDS</item>
+        <item>SHARE APP</item>
+        <item>SETTINGS</item>
+    </string-array>
+
+
+</resources>
