@@ -3,4 +3,6 @@ The idea is to create wave transitions below the header when the user opens the 
 the transitions have to be meaningful so I created a loop of 5 different waves 
 that synched with each other in a series order using Android's VectorDrawable.
 
-https://cdn-images-1.medium.com/max/1600/1*-QxingaedQq6R5ArUKwNvw.gif
+![Alt Text](https://cdn-images-1.medium.com/max/1600/1*-QxingaedQq6R5ArUKwNvw.gif)
+
+
