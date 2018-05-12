@@ -6,6 +6,7 @@ that synched with each other in a series order using Android's VectorDrawable.
 ![Alt Text](https://cdn-images-1.medium.com/max/1600/1*-QxingaedQq6R5ArUKwNvw.gif)
 
 Full Documentation here 
+
 https://medium.com/@youssefassad/navigation-drawer-with-wave-animation-21bfb4e647fd
 
 
